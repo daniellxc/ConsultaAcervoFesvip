@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consulta.Web", "Consulta.Web\Consulta.Web.csproj", "{FF41CE58-FC0E-460F-9A65-F67E23B0DDF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consulta.Dominio", "Consulta.Dominio\Consulta.Dominio.csproj", "{D895E654-4F99-42EF-9DE5-87B86C00FFE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consulta.WebForm", "Consulta.WebForm\Consulta.WebForm.csproj", "{F4A04FD8-63B2-439E-8A72-247B81B5F15C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF41CE58-FC0E-460F-9A65-F67E23B0DDF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF41CE58-FC0E-460F-9A65-F67E23B0DDF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF41CE58-FC0E-460F-9A65-F67E23B0DDF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF41CE58-FC0E-460F-9A65-F67E23B0DDF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D895E654-4F99-42EF-9DE5-87B86C00FFE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D895E654-4F99-42EF-9DE5-87B86C00FFE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D895E654-4F99-42EF-9DE5-87B86C00FFE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D895E654-4F99-42EF-9DE5-87B86C00FFE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4A04FD8-63B2-439E-8A72-247B81B5F15C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4A04FD8-63B2-439E-8A72-247B81B5F15C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4A04FD8-63B2-439E-8A72-247B81B5F15C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4A04FD8-63B2-439E-8A72-247B81B5F15C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
